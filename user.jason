@@ -1,0 +1,10 @@
+{
+"username": "Anjali",
+"password": "1234",
+"address":
+{"city" :"Delhi",
+"country": "India"
+}
+,
+"mobile": [123,234]
+}
